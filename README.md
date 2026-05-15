@@ -1,9 +1,10 @@
 
+
 <p align="center"><img width="400px" alt="p3bvd1" src="https://github.com/user-attachments/assets/675a3603-ec68-459b-83fe-5beeb466b62e" />
 
 
 <p align="center"><img width="300px" alt="The_Pinky_Apprentice_-_Ren_Hurt_Sprite" src="https://github.com/user-attachments/assets/aa632012-c89b-4d40-aca9-5683a9928931" />
 
-<p align="center"><img width="200px" alt="IMG-1071" src="https://github.com/user-attachments/assets/1c4e0bc2-26bf-4719-9606-53112fca1e0f" />
-
 <p align="center"><a href="echolings.straw.page">straw</a> &nbsp;◞ &nbsp;&nbsp;&nbsp; <a href="https://idioteque.atabook.org/">ata</a> &nbsp;◞ &nbsp;&nbsp;&nbsp; <a href="https://transatlanticdrawl.carrd.co/">carrd</a>
+
+<p align="center"><img width="300px" alt="IMG-1097" src="https://github.com/user-attachments/assets/aee801d7-a013-4031-af53-e0a6d50bc166" />

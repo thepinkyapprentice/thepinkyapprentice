@@ -3,4 +3,4 @@
 <p align="center"><img width="300px" alt="The_Pinky_Apprentice_-_Ren_Idle_Animation" src="https://github.com/user-attachments/assets/94fbc24c-70ac-4514-b29c-5af68d65a6bf" />
 
 <p align="center">
- <img width="20px" alt="u9d1p2" src="https://github.com/user-attachments/assets/61ad7f3f-b812-486e-b110-2fb3b490fddf" /> &nbsp;&nbsp;&nbsp; <a href="https://idioteque.atabook.org/"> ata </a> ◞ &nbsp; <a href="echolings.straw.page"> straw </a> ◞ &nbsp; <a href="https://transatlanticdrawl.carrd.co/"> carrd </a>
+ <img width="20px" alt="u9d1p2" src="https://github.com/user-attachments/assets/61ad7f3f-b812-486e-b110-2fb3b490fddf" /> &nbsp;&nbsp;&nbsp; <a href="https://idioteque.atabook.org/">ata</a> ◞ &nbsp; <a href="echolings.straw.page">straw</a> ◞ &nbsp; <a href="https://transatlanticdrawl.carrd.co/">carrd</a>

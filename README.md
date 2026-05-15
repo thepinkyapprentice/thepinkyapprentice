@@ -7,5 +7,5 @@
 
 <p align="center"><a href="echolings.straw.page">straw</a> &nbsp;◞ &nbsp;&nbsp;&nbsp; <a href="https://idioteque.atabook.org/">ata</a> &nbsp;◞ &nbsp;&nbsp;&nbsp; <a href="https://transatlanticdrawl.carrd.co/">carrd</a>
 
-<img width="250px" alt="wd8t9n" src="https://github.com/user-attachments/assets/6f00d1bc-773d-47a5-a0b2-63eb07002111" />
+<p align="center"><img width="250px" alt="wd8t9n" src="https://github.com/user-attachments/assets/6f00d1bc-773d-47a5-a0b2-63eb07002111" />
 

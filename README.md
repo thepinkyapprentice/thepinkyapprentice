@@ -4,4 +4,4 @@
 
 
 <p align="center">
- <img width="20px" alt="u9d1p2" src="https://github.com/user-attachments/assets/61ad7f3f-b812-486e-b110-2fb3b490fddf" /> &nbsp;&nbsp;&nbsp; <a href="https://idioteque.atabook.org/">ata</a> ◞ &nbsp; <a href="echolings.straw.page">straw</a> ◞ &nbsp; <a href="https://transatlanticdrawl.carrd.co/">carrd</a>
+ <img width="20px" alt="08er4u" src="https://github.com/user-attachments/assets/f4183082-9194-4e12-ad09-554b9a4c5e54" /> &nbsp;&nbsp;&nbsp; <a href="https://idioteque.atabook.org/">ata</a> ◞ &nbsp; <a href="echolings.straw.page">straw</a> ◞ &nbsp; <a href="https://transatlanticdrawl.carrd.co/">carrd</a>

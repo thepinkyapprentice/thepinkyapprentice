@@ -7,6 +7,7 @@
 
 <p align="center"><a href="echolings.straw.page">straw</a> &nbsp;◞ &nbsp;&nbsp;&nbsp; <a href="https://idioteque.atabook.org/">ata</a> &nbsp;◞ &nbsp;&nbsp;&nbsp; <a href="https://transatlanticdrawl.carrd.co/">carrd</a>
 
-<p align="center"><img width="250px" alt="wd8t9n" src="https://github.com/user-attachments/assets/6f00d1bc-773d-47a5-a0b2-63eb07002111" />
+<p align="center"><img width="250px" alt="image_2024_05_23_214001293" src="https://github.com/user-attachments/assets/218df662-378b-49d3-88f6-ab2f8a0a73a1" />
+
 
 <p align="center"><img width="400px" alt="sfh0vk" src="https://github.com/user-attachments/assets/ebef44be-0cb6-4929-9a85-bcfe5d15fe3d" />

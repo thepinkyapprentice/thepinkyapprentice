@@ -1,6 +1,6 @@
 
 
-<p align="center"><img width="300" height="428" alt="The_Pinky_Apprentice_-_Ren_Guard_Sprite (1)" src="https://github.com/user-attachments/assets/22b0c7ff-70e3-4659-81f5-5d6892d569fd" />
+<p align="center"><img width="300px" alt="The_Pinky_Apprentice_-_Ren_Guard_Sprite (1)" src="https://github.com/user-attachments/assets/22b0c7ff-70e3-4659-81f5-5d6892d569fd" />
 
 
 <p align="center">

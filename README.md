@@ -8,4 +8,4 @@
 
 <p align="center"><a href="echolings.straw.page">straw</a> &nbsp;◞ &nbsp;&nbsp;&nbsp; <a href="https://idioteque.atabook.org/">ata</a> &nbsp;◞ &nbsp;&nbsp;&nbsp; <a href="https://transatlanticdrawl.carrd.co/">carrd</a>
 
-<p align="center"><img width="430px" alt="sfh0vk" src="https://github.com/user-attachments/assets/ebef44be-0cb6-4929-9a85-bcfe5d15fe3d" />
+<p align="center"><img width="420px" alt="sfh0vk" src="https://github.com/user-attachments/assets/ebef44be-0cb6-4929-9a85-bcfe5d15fe3d" />
